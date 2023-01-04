@@ -680,7 +680,8 @@ li .single-footer-contact-info .text p br{
     position: relative;
     display: block;
     float: none !important;
-}   
+    margin-top: 0px;
+}
   
 .mainmenu-right {
     position: absolute;
@@ -902,7 +903,10 @@ li .single-footer-contact-info .text p br{
     left: 20px;
     margin: 15px 0;
     z-index: 33;
-}    
+}
+.logo-box-style2 img {
+    max-height: 50px;
+}
  
 .mainmenu-right.style2 {
     position: absolute;
@@ -1493,6 +1497,7 @@ li .single-footer-contact-info .inner {
     position: relative;
     display: block;
     float: none !important;
+    margin-top: 0px;
 }   
   
 .mainmenu-right {
@@ -1771,11 +1776,11 @@ li .single-footer-contact-info .inner {
     margin: 0;
     top: 0px;
     left: 10px;
-    margin: 22px 0 23px;
+    margin: 15px 0 23px;
     z-index: 33;
 }
 .logo-box-style2 a img{
-    width: 70%;
+    max-height: 50px;
 }    
  
 .mainmenu-right.style2 {
