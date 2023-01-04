@@ -183,7 +183,7 @@
     text-align: center;
 }    
 .top-style2-left p {
-    display: block;
+    display: none;
     float: none;
 }  
 .top-style2-left ul {
@@ -200,10 +200,11 @@
 } 
     
 .top-style2-right {
-    overflow: hidden;
+    /* overflow: hidden;
     float: none;
     text-align: center;
-    padding-top: 11px;
+    padding-top: 11px; */
+    display: none;
 } 
 .top-style2-right .top-right-menu {
     display: block;
@@ -834,7 +835,7 @@ li .single-footer-contact-info .text p br{
     text-align: center;
 }    
 .top-style2-left p {
-    display: block;
+    display: none;
     float: none;
 }  
 .top-style2-left ul {
@@ -851,10 +852,11 @@ li .single-footer-contact-info .text p br{
 } 
     
 .top-style2-right {
-    overflow: hidden;
+    /* overflow: hidden;
     float: none;
     text-align: center;
-    padding-top: 11px;
+    padding-top: 11px; */
+    display: none;
 } 
 .top-style2-right .top-right-menu {
     display: block;
@@ -1700,7 +1702,7 @@ li .single-footer-contact-info .inner {
     text-align: center;
 }    
 .top-style2-left p {
-    display: block;
+    display: none;
     float: none;
 }  
 .top-style2-left ul {
@@ -1721,10 +1723,11 @@ li .single-footer-contact-info .inner {
 }    
     
 .top-style2-right {
-    overflow: hidden;
+    /* overflow: hidden;
     float: none;
     text-align: center;
-    padding-top: 11px;
+    padding-top: 11px; */
+    display: none;
 } 
 .top-style2-right .top-right-menu {
     display: block;
