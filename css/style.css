@@ -1061,6 +1061,7 @@ select:focus {
     top: 100%;
     opacity: 1;
     visibility: visible;
+    box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
 }
 .main-menu .navigation > li > ul > li {
     position: relative;
