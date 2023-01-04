@@ -1037,7 +1037,7 @@ select:focus {
     position: absolute;
     left: 0px;
     top: 130%;
-    width: 270px;
+    width: 300px;
     background: transparent;
     padding: 10px 0px 0;
     visibility: hidden;
