@@ -990,6 +990,9 @@ select:focus {
     display: block;
     margin-top: 18px;
 }
+.stricky-fixed .main-menu-box {
+    margin-top: 0px;
+}
 
 
 .main-menu {
@@ -3666,6 +3669,9 @@ select:focus {
 .logo-box-style2 img {
     max-width: 250px;
 }
+.stricky-fixed .logo-box-style2 img {
+    max-height: 50px;
+}
 .logo-box-style2-text {
     margin: 35px 0 0 20px;
     text-transform: uppercase;
@@ -3677,6 +3683,9 @@ select:focus {
     display: block;
     font-size: 1.5rem;
     color: #e31e25;
+}
+.stricky-fixed .logo-box-style2-text {
+    margin-top: 20px;
 }
 
 .main-menu.style2 .navigation > li {
