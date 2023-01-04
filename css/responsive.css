@@ -2922,6 +2922,8 @@ li .single-footer-contact-info .inner {
     
 .main-menu .navbar-collapse .navigation li ul li{
     border-bottom: 0px solid #151618 !important;
+    padding-left: 30px;
+    background: #404040;
 } 
 .main-menu .navbar-collapse .navigation li ul li ul li{
     border-bottom: 0px solid #151618 !important;
