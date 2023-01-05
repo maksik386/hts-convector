@@ -217,7 +217,7 @@ span.clr-white {
 .btn-two{
     color: #27282c;
     font-size: 15px;
-    line-height: 20px;;
+    line-height: 20px;
     font-weight: 500;
     text-transform: capitalize;
     font-family: 'Rubik', sans-serif;
@@ -232,6 +232,27 @@ span.clr-white {
     padding-left: 10px;
 }
 .btn-two:hover{
+    color: #e9212e;
+}
+
+.btn-footer{
+    color: #fff;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: 'Rubik', sans-serif;
+    transition: all 500ms ease;
+}
+.btn-footer span:before {
+    position: relative;
+    top: 5px;
+    font-size: 26px;
+    line-height: 14px;
+    display: inline-block;
+    padding-left: 10px;
+}
+.btn-footer:hover{
     color: #e9212e;
 }
 
@@ -3186,7 +3207,6 @@ select:focus {
     font-size: 24px;
     line-height: 24px;
     font-weight: 600;
-    text-transform: capitalize;
 }
 
 .single-footer-widget .contact-info-box{
@@ -3684,7 +3704,6 @@ select:focus {
 .logo-box-style2-text {
     margin: 35px 0 0 20px;
     text-transform: uppercase;
-    font-style: italic;
     color: #0b57a3;
     font-size: 1rem;
 }
