@@ -748,6 +748,20 @@ li .single-footer-contact-info .text p br{
     margin-right: 0;
     margin: 0 8px;
 }
+
+/*** 
+=============================================
+    index product icons
+=============================================
+***/ 
+.single-featured-box .inner .static-content {
+   padding-left: 15px;
+}
+.single-featured-box .inner .overlay-content {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
   
 /*** 
 =============================================
